@@ -1,2 +1,2 @@
-# sattuu-demo
-this is my first git repo
+# -demo
+this is my First Git repo
